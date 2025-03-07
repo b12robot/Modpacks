@@ -1,0 +1,82 @@
+##### 📒 Sürüm Değişiklikleri
+
+---
+
+##### ⬆ Güncellenen Modlar
+
+- Camera Overhaul  
+- Curios Lanterns  
+- Collective  
+- ...
+
+---
+
+##### ➕ Eklenen Modlar
+
+- Modpack Update Checker  
+- Crafting Station  
+- Feature Recycle  
+- Long NBT Killer  
+- Just Let Me In  
+- Skyfall: Meteorites  
+- Potion Descriptions  
+- Wandering Treader May Leave  
+- Piglin Names  
+- Distraction-Free Recipes  
+- Connectivity  
+- Fusion  
+- Bartending Station  
+- Compact Void Miner  
+
+---
+
+##### ➖ Kaldırılan Modlar
+
+- Plige and Splige  
+- Whisperswoods  
+- Cave Dweller  
+- Realistic Block Physics  
+- Not Interested  
+- Continuity  
+- YUNG Cave Biomes  
+- TerraBlender  
+- TerraBlenderFix  
+- Ready Player Fun  
+- Chunky  
+- Social Distance  
+- Unloaded Activity  
+- Split It Out  
+- Deeper Oceans  
+- WITS  
+- I Saw What You Did  
+- Mutant Monsters  
+
+---
+
+##### ⚡ Düzeltilen Hatalar
+
+- Araç Sorunu: Paxel ve benzeri balta türü araçların ağaçları kıramama hatası çözüldü.  
+
+---
+
+##### ❗ Bilinen Sorunlar
+
+- Büyü Kitapları: Bazı büyü kitaplarında mod ismi iki kez yazıyor.  
+- Demir Golem: Kaplama çatladığında görsel hata oluşuyor.  
+- Born in Chaos: Konfigürasyon kaydetmeme hatası nedeniyle moblar birbirine zarar verebiliyor.  
+- Alex's Caves: Bazı biomlarda Born in Chaos yaratıkları hatalı şekilde doğuyor.  
+- Guard Villagers: Minimap üzerinde göz ikonları görünmüyor.  
+- Enchantment Info: Arayüzde ekranın alt kısmında uzama sorunu.  
+- Extra Gore: Kan efektlerinin renkleri tutarsız.  
+- Delightful Mini Melon/Cantaloupe: Moblar bu bloklardan geçerken takılıyor.  
+- Chat: Açıldığında bazen yukarı kayma sorunu.  
+- Ender/Magnet Ring: Envanterde konumlandırma hatası.  
+- Meşale Partikülleri: Ateş efektlerinin renk uyumsuzluğu.  
+- Slime Efektleri: Renkler arasında tutarsızlık.  
+- Su Yüzeyi: Nadiren görsel bozulma yaşanabiliyor.  
+
+---
+
+##### ⭐ Planlanan Değişiklikler
+
+- Atmosfer İyileştirme: Yeni "Fog Modu" eklenecek.  
