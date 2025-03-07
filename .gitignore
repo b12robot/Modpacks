@@ -1,0 +1,10 @@
+*
+!.gitattributes
+!.gitignore
+!LICENSE
+!README.md
+!*/
+!*/versions/
+!*/versions/*
+!*/versions/*/*
+!meta.json
