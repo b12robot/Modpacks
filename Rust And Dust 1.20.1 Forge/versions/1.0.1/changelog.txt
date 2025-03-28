@@ -55,28 +55,36 @@
 
 ##### ⚡ Düzeltilen Hatalar
 
-- Araç Sorunu: Paxel ve benzeri balta türü araçların ağaçları kıramama hatası çözüldü.  
-
+- Paxel ve benzeri diğer modlar ile eklenen balta ve kazma türü araçların ağaçları ve taşları kıramama hatası çözüldü.(It's Harder Early)
+- Ender/Magnet Ring envanterde konumlandırma hatası düzeltildi. (Enigmatic Legacy)
+- Meşale ateş efektlerinin renk uyumsuzluğu düzeltildi. (Subtle Effects)
+- Just Enought Items'ta bazı araç ve zırhların 2D ve 3D görünümü birlikte gösteriliyor. (Legendary Tooltips)
+- Türkçe karakterlerin yanlış görünme sorunu düzeltildi. (Villager Names)
 ---
 
 ##### ❗ Bilinen Sorunlar
 
-- Büyü Kitapları: Bazı büyü kitaplarında mod ismi iki kez yazıyor.  
-- Demir Golem: Kaplama çatladığında görsel hata oluşuyor.  
-- Born in Chaos: Konfigürasyon kaydetmeme hatası nedeniyle moblar birbirine zarar verebiliyor.  
-- Alex's Caves: Bazı biomlarda Born in Chaos yaratıkları hatalı şekilde doğuyor.  
-- Guard Villagers: Minimap üzerinde göz ikonları görünmüyor.  
-- Enchantment Info: Arayüzde ekranın alt kısmında uzama sorunu.  
-- Extra Gore: Kan efektlerinin renkleri tutarsız.  
-- Delightful Mini Melon/Cantaloupe: Moblar bu bloklardan geçerken takılıyor.  
-- Chat: Açıldığında bazen yukarı kayma sorunu.  
-- Ender/Magnet Ring: Envanterde konumlandırma hatası.  
-- Meşale Partikülleri: Ateş efektlerinin renk uyumsuzluğu.  
-- Slime Efektleri: Renkler arasında tutarsızlık.  
-- Su Yüzeyi: Nadiren görsel bozulma yaşanabiliyor.  
+- Bazı moblara rainbow color layer uygulanamıyor. (Alex Mobs)
+- Bazı moblara radiation glow layer uygulanamıyor. (Alex Caves)
+- Bazı moblara slimed layer uygulanamıyor yada düzgün uygulanamıyor. (Supplementaries)
+- Bazı silahlara renkli kaplamalar uygulanamıyor. (Mo' Than Enough Guns)
+- Moblar Mini Melon, Cantaloupe gibi bloklardan geçerken takılıyor. (Delightful)
+- Chat açıldığında bazen kendiliğinden yukarı kayıyor. (Chat Boost)
+- Yere düşen yapraklar siyah görünebiliyor (Falling Leaves)
+- Quark lanterns belt slota takıldığında crash veriyor. (Quark & Radiant Gear & Curious Lanterns)
+- Demir Golem kaplaması çatladığında görsel hata oluşuyor. (Fresh Animations Resourcepack & EMF & ETF)
+- Bazı büyü kitaplarında mod ismi iki kez yazıyor. (Undefined)
+- Su Yüzeyi nadiren görsel bozulma yaşanabiliyor. (Undefined)
+- Minimap üzerinde gurad villagers ikonlarının gözleri görünmüyor. (Xaero Minimap Icon Resourcepack)
+- Yeşil zombileşme efekti diğer arayüzleri görünmez yapıyor. (Hordes)
+- Moblar birbirine düşman olabiliyor,Born in Configuration config dosyası düzgün uygulanmadığı için. (Born in Configuration & Born in Chaos)
+- Bazı Alex Caves biomlarda Born in Chaos yaratıkları doğuyor. (Born in Chaos)
 
 ---
 
 ##### ⭐ Planlanan Değişiklikler
 
-- Atmosfer İyileştirme: Yeni "Fog Modu" eklenecek.  
+- Fog Modu eklenebilir.
+- Zırhların zombi enfeksiyondan koruma düzeyleri ayarlanmalı. (Hordes)
+- El ile taşınabilen blokların ayarlanması. (Carry On)
+- Moblara göre kan efektlerinin renkleri düzenlenmesi gerekiyor. (Extra Gore)
